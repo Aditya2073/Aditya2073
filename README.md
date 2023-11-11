@@ -1,4 +1,4 @@
-![Screenshot](githubBanner.png)
+![Screenshot](githubPBan.png)
 # 💫 About Me:
 As a passionate student pursuing a degree in Artificial Intelligence and Data Science, I am dedicated to gaining expertise in the field of data science and artificial intelligence.
 
