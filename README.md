@@ -1,4 +1,4 @@
-![Screenshot](githubPBan.png)
+![githubPBan](https://github.com/Aditya2073/Aditya2073/assets/72962577/79f83f01-3bfc-48f7-abfe-d805fa8fd09e)
 # 💫 About Me:
 As a passionate student pursuing a degree in Artificial Intelligence and Data Science, I am dedicated to gaining expertise in the field of data science and artificial intelligence.
 
