@@ -23,6 +23,6 @@ As a passionate student pursuing a degree in Artificial Intelligence and Data Sc
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya2073&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aditya2073&icon=0&color=0)]()
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
