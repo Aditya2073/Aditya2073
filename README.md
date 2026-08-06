@@ -122,8 +122,8 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya2073&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2073&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" alt="Top languages" />
+<img width="49%" src="./profile/stats.svg" alt="GitHub stats" />
+<img width="49%" src="./profile/top-langs.svg" alt="Top languages" />
 
 <br/>
 
@@ -140,7 +140,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya2073&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
+  <img width="98%" src="./profile/trophy.svg" alt="Trophies" />
 </div>
 
 ---
@@ -163,25 +163,17 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </div>
 
-<details>
-<summary>😂 <b>Click for a random dev meme</b></summary>
-<br/>
-<div align="center">
-  <img src="https://randommeme-five.vercel.app/" alt="Random dev meme" width="60%" />
-</div>
-</details>
-
 ---
 
-<!--
-🐍 CONTRIBUTION SNAKE
-Uncomment the block below AFTER adding .github/workflows/snake.yml
-and letting the workflow run once (Actions tab → Generate Snake → Run workflow).
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya2073/Aditya2073/output/snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+    <img src="./profile/snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
 </div>
--->
 
 <div align="center">
 
