@@ -147,16 +147,13 @@ me.say_hi()
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Aditya2073/REPO-NAME-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya2073&repo=REPO-NAME-1&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" alt="Project 1" />
-</a>
-<a href="https://github.com/Aditya2073/REPO-NAME-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya2073&repo=REPO-NAME-2&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9" alt="Project 2" />
-</a>
-
-</div>
+| Project | What it is | Built with |
+|---|---|---|
+| **[nesting-instinct](https://github.com/Aditya2073/nesting-instinct)** | Tab hoarding isn't a problem — it's a LIFESTYLE. Infinite nesting, zero productivity. *DEV April Fools Challenge* | ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **[solstice-machine](https://github.com/Aditya2073/solstice-machine)** | A single-file browser puzzle game where you program a Turing machine on a 24-hour ring. *DEV Solstice Game Jam — for Alan Turing* | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **[hermes-pr-investigator](https://github.com/Aditya2073/hermes-pr-investigator)** | Autonomous PR investigator skill for Hermes Agent. *DEV Challenge 2026* | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **[AI-Expense-Tracker](https://github.com/Aditya2073/AI-Expense-Tracker)** | AI-powered expense tracker with a clean shadcn/ui-inspired design | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **[ai-banking-chatbot](https://github.com/Aditya2073/ai-banking-chatbot)** | AI-based banking chatbot system powered by DeepSeek AI | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
